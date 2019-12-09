@@ -1,0 +1,36 @@
+.container {
+  font-size: 14px;
+  padding: 100px;
+}
+
+.header {
+  height: 30px;
+}
+
+.content {
+  padding: 20px 0;
+}
+
+.button {
+  margin-right: 10px;
+}
+
+.navLink {
+  margin: 20px 0;
+}
+
+.todoList{
+  list-style: none;
+
+  li {
+    margin: 18px 0;
+    font-size: 13px;
+    border-bottom: 1px dashed gray;
+  }
+}
+
+.svgDemo {
+  width: 100px;
+  height: 100px;
+  fill: red;
+}
